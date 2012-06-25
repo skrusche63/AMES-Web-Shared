@@ -37,5 +37,11 @@ public class MethodConstants {
 	public static String METH_SET       = "set";
 	public static String METH_SUBMIT    = "submit";
     public static String METH_SYMBOLS   = "symbols";
+    
+    /*
+     * Method attributes
+     */
+	public static String ATTR_TYPE = "type";
+
 
 }
