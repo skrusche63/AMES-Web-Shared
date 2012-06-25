@@ -25,6 +25,7 @@ public class MethodConstants {
 	 */    
     public static String METH_APPLY     = "apply";
     public static String METH_DELETE    = "delete";
+    public static String METH_DOWNLOAD  = "download";
     public static String METH_EDGES   	= "edges";
     public static String METH_EXPLORE   = "explore";
     public static String METH_FILE      = "file";
@@ -41,7 +42,10 @@ public class MethodConstants {
     /*
      * Method attributes
      */
-	public static String ATTR_TYPE = "type";
+    public static String ATTR_FORMAT = "format";
+	public static String ATTR_ITEM   = "item";
+	public static String ATTR_SOURCE = "source";
+	public static String ATTR_TYPE   = "type";
 
 
 }
