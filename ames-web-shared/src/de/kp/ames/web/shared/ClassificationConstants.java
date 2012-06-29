@@ -24,6 +24,38 @@ public class ClassificationConstants {
 	 * Common Classification Node
 	 */
 	public static String FNC_ID = "urn:oasis:names:tc:ebxml-regrep:FNC";
+		
+	/*
+	 * Business Classification Nodes
+	 */
+	public static String FNC_ID_Accessor       = FNC_ID + ":Accessor";
+	public static String FNC_ID_Affiliation    = FNC_ID + ":Affiliation";
+	public static String FNC_ID_Category       = FNC_ID + ":Category";
+	public static String FNC_ID_Contact        = FNC_ID + ":Contact";	
+	public static String FNC_ID_Community      = FNC_ID + ":Community";
+	public static String FNC_ID_Database       = FNC_ID + ":Database";
+	public static String FNC_ID_Document       = FNC_ID + ":Document";
+	public static String FNC_ID_Evaluation     = FNC_ID + ":Evaluation";
+	public static String FNC_ID_Folder         = FNC_ID + ":Folder";
+	public static String FNC_ID_Image          = FNC_ID + ":Image";
+	public static String FNC_ID_Link           = FNC_ID + ":Link";
+	public static String FNC_ID_Namespace      = FNC_ID + ":Namespace";	
+	public static String FNC_ID_Package        = FNC_ID + ":Package";
+	public static String FNC_ID_Product        = FNC_ID + ":Product";
+	public static String FNC_ID_Productor      = FNC_ID + ":Productor";
+	public static String FNC_ID_Reasoner       = FNC_ID + ":Reasoner";
+	public static String FNC_ID_Remote         = FNC_ID + ":Remote";
+	public static String FNC_ID_Responsibility = FNC_ID + ":Responsibility";
+	public static String FNC_ID_Role           = FNC_ID + ":Role";
+	public static String FNC_ID_User           = FNC_ID + ":User";
+	public static String FNC_ID_WebDav		   = FNC_ID + ":WebDav";
+	
+	/*
+	 * Communication Classification Nodes
+	 */
+	public static String FNC_ID_Chat    = FNC_ID + ":Chat";
+	public static String FNC_ID_Mail    = FNC_ID + ":Mail";
+	public static String FNC_ID_Posting = FNC_ID + ":Posting";
 
 	/*
 	 * Security Classification Nodes
@@ -32,5 +64,18 @@ public class ClassificationConstants {
 	
 	public static String FNC_SECURITY_ID_App  = FNC_ID_Security + ":App";
 	public static String FNC_SECURITY_ID_Safe = FNC_ID_Security + ":Safe";
+	
+	/*
+	 * Symbol Classification Nodes
+	 */
+	public static String FNC_ID_Symbol = FNC_ID + ":Symbol";
+	
+	public static String FNC_SYMBOL_ID_APP6B = FNC_ID_Symbol + ":APP6-B";
+	public static String FNC_SYMBOL_ID_Icon  = FNC_ID_Symbol + ":Icon";
+	
+	/*
+	 * Transformation Classification Nodes
+	 */
+	public static String FNC_ID_Transformator =  FNC_ID + ":Transformator";
 
 }

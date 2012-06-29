@@ -28,6 +28,7 @@ public class MethodConstants {
     public static String METH_DOWNLOAD  = "download";
     public static String METH_EDGES   	= "edges";
     public static String METH_EXPLORE   = "explore";
+    public static String METH_EXTRACT   = "extract";
     public static String METH_FILE      = "file";
     public static String METH_GET       = "get";
     public static String METH_KEYS      = "keys";
@@ -42,10 +43,12 @@ public class MethodConstants {
     /*
      * Method attributes
      */
-    public static String ATTR_FORMAT = "format";
-	public static String ATTR_ITEM   = "item";
-	public static String ATTR_SOURCE = "source";
-	public static String ATTR_TYPE   = "type";
+    public static String ATTR_FORMAT    = "format";
+	public static String ATTR_ITEM      = "item";
+	public static String ATTR_PARENT    = "parent";
+	public static String ATTR_SOURCE    = "source";
+	public static String ATTR_TARGET    = "target";
+	public static String ATTR_TYPE      = "type";
 
 
 }

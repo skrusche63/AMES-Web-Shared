@@ -20,6 +20,17 @@ package de.kp.ames.web.shared;
 
 public class ServiceConstants {
 
-	public static String SECURITY_SERVICE_ID = "security";
+	public static String ACCESS_SERVICE_ID        = "access";
+	public static String BULLETIN_SERVICE_ID      = "bulletin";
+	public static String COMMUNICATION_SERVICE_ID = "communication";
+	public static String COMMUNITY_SERVICE_ID     = "community";
+	public static String DISCLAIMER_SERVICE_ID    = "disclaimer";
+	public static String NAMESPACE_SERVICE_ID     = "namespace";
+	public static String PRODUCT_SERVICE_ID       = "product";
+	public static String ROLE_SERVICE_ID          = "role";
+	public static String RULE_SERVICE_ID          = "rule";
+	public static String SECURITY_SERVICE_ID      = "security";
+	public static String TRANSFORM_SERVICE_ID     = "transform";
+	public static String USER_SERVICE_ID          = "user";
 
 }
