@@ -25,11 +25,15 @@ public class ServiceConstants {
 	public static String COMMUNICATION_SERVICE_ID = "communication";
 	public static String COMMUNITY_SERVICE_ID     = "community";
 	public static String DISCLAIMER_SERVICE_ID    = "disclaimer";
+	public static String DMS_SERVICE_ID           = "dms";
+	public static String DOMAIN_SERVICE_ID        = "domain";
+	public static String MAP_SERVICE_ID           = "map";
 	public static String NAMESPACE_SERVICE_ID     = "namespace";
 	public static String PRODUCT_SERVICE_ID       = "product";
 	public static String ROLE_SERVICE_ID          = "role";
 	public static String RULE_SERVICE_ID          = "rule";
 	public static String SECURITY_SERVICE_ID      = "security";
+	public static String SYMBOL_SERVICE_ID        = "symbol";
 	public static String TRANSFORM_SERVICE_ID     = "transform";
 	public static String USER_SERVICE_ID          = "user";
 

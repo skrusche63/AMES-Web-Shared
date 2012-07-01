@@ -26,7 +26,6 @@ public class MethodConstants {
     public static String METH_APPLY     = "apply";
     public static String METH_DELETE    = "delete";
     public static String METH_DOWNLOAD  = "download";
-    public static String METH_EDGES   	= "edges";
     public static String METH_EXPLORE   = "explore";
     public static String METH_EXTRACT   = "extract";
     public static String METH_FILE      = "file";
@@ -34,7 +33,6 @@ public class MethodConstants {
     public static String METH_KEYS      = "keys";
     public static String METH_LAYERS    = "layers";
     public static String METH_MODULE    = "module";
-    public static String METH_NODES   	= "nodes";
 	public static String METH_REGISTER  = "register";
 	public static String METH_SET       = "set";
 	public static String METH_SUBMIT    = "submit";
@@ -46,6 +44,7 @@ public class MethodConstants {
     public static String ATTR_FORMAT    = "format";
 	public static String ATTR_ITEM      = "item";
 	public static String ATTR_PARENT    = "parent";
+	public static String ATTR_SERVICE   = "service";
 	public static String ATTR_SOURCE    = "source";
 	public static String ATTR_TARGET    = "target";
 	public static String ATTR_TYPE      = "type";

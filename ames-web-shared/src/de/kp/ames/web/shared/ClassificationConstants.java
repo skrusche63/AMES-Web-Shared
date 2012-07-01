@@ -35,11 +35,13 @@ public class ClassificationConstants {
 	public static String FNC_ID_Community      = FNC_ID + ":Community";
 	public static String FNC_ID_Database       = FNC_ID + ":Database";
 	public static String FNC_ID_Document       = FNC_ID + ":Document";
+	public static String FNC_ID_Edge           = FNC_ID + ":Edge";
 	public static String FNC_ID_Evaluation     = FNC_ID + ":Evaluation";
 	public static String FNC_ID_Folder         = FNC_ID + ":Folder";
 	public static String FNC_ID_Image          = FNC_ID + ":Image";
 	public static String FNC_ID_Link           = FNC_ID + ":Link";
 	public static String FNC_ID_Namespace      = FNC_ID + ":Namespace";	
+	public static String FNC_ID_Node           = FNC_ID + ":Node";
 	public static String FNC_ID_Package        = FNC_ID + ":Package";
 	public static String FNC_ID_Product        = FNC_ID + ":Product";
 	public static String FNC_ID_Productor      = FNC_ID + ":Productor";
