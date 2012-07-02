@@ -21,7 +21,7 @@ package de.kp.ames.web.shared;
 public class ClassificationConstants {
 
 	/* 
-	 * Common Classification Node
+	 * Common Classification Scheme
 	 */
 	public static String FNC_ID = "urn:oasis:names:tc:ebxml-regrep:FNC";
 		
