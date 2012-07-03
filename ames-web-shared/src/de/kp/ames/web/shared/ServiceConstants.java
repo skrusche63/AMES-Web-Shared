@@ -27,6 +27,7 @@ public class ServiceConstants {
 	public static String DISCLAIMER_SERVICE_ID    = "disclaimer";
 	public static String DMS_SERVICE_ID           = "dms";
 	public static String DOMAIN_SERVICE_ID        = "domain";
+	public static String FRAME_SERVICE_ID         = "frame";
 	public static String MAP_SERVICE_ID           = "map";
 	public static String NAMESPACE_SERVICE_ID     = "namespace";
 	public static String PRODUCT_SERVICE_ID       = "product";

@@ -20,6 +20,19 @@ package de.kp.ames.web.shared;
 
 public class JaxrConstants {
 
+	/*
+	 * Registry guest
+	 */
+	public static String REGISTRY_GUEST = "urn:oasis:names:tc:ebxml-regrep:RegistryGuest";
+
+	/*
+	 * ebRIM prefix
+	 */
+	public static String RIM_PRE = "rim";
+
+	/*
+	 * RIM parameters
+	 */
 	public static String RIM_AUTHOR    = "rimAuthor";
 	public static String RIM_CODE      = "rimCode";
 	public static String RIM_DATE      = "rimDatetime";
@@ -38,5 +51,111 @@ public class JaxrConstants {
     public static String RIM_TYPE  	   = "rimObjectType";
     public static String RIM_URI       = "rimExternalURI";
     public static String RIM_VERSION   = "rimVersion";
+    
+ 	/* 
+ 	 * Person name (User)
+ 	 */
+     public static String RIM_FIRST_NAME  = "rimFirstName";
+     public static String RIM_MIDDLE_NAME = "rimMiddleName";
+     public static String RIM_LAST_NAME   = "rimLastName";
+     public static String RIM_USER_NAME   = "rimUserName";
+
+ 	/* 
+ 	 * Postal address (Organization & User)
+ 	 */
+     public static String RIM_ADDRESS           = "rimAddress";
+     
+     public static String RIM_CITY              = "rimCity";
+     public static String RIM_COUNTRY           = "rimCountry";
+     public static String RIM_POSTAL_CODE       = "rimPostalCode";
+     public static String RIM_STATE_OR_PROVINCE = "rimStateOrProvince";
+     public static String RIM_STREET            = "rimStreet";
+     public static String RIM_STREET_NUMBER     = "rimStreeNumber";
+
+ 	/* 
+ 	 * Telefone number (Organization & User)
+ 	 */
+     public static String RIM_PHONE           = "rimPhone";
+     
+     public static String RIM_AREA_CODE       = "rimAreaCode";
+     public static String RIM_COUNTRY_CODE    = "rimCountryCode";
+     public static String RIM_PHONE_NUMBER    = "rimPhoneNumber";
+     public static String RIM_PHONE_EXTENSION = "rimPhoneExtension";
+
+ 	/* 
+ 	 * Email address (Organization & User)
+ 	 */
+     public static String RIM_EMAIL = "rimEmail";
+
+ 	/* 
+ 	 * Primary contact (Organization)
+ 	 */
+     public static String RIM_CONTACT	   = "rimContact";
+     
+ 	public static String RIM_CONTACT_NAME  = "rimContactName";
+ 	public static String RIM_CONTACT_EMAIL = "rimContactEmail";
+ 	public static String RIM_CONTACT_PHONE = "rimContactPhone";
+
+    /*
+     * Semantic description
+     */
+	public static String RIM_CATE  = "rimCategory";
+	public static String RIM_CLAS  = "rimClassification";
+	public static String RIM_ROLE  = "rimRole";
+
+	/*
+	 * Namespace
+	 */
+	public static String RIM_NAMESPACE = "rimNamespace";
+
+	/*
+	 * Service
+	 */
+	public static String RIM_SEQNO = "rimSeqNo";
+	public static String RIM_SPEC  = "rimSpecification";
+
+	/*
+	 * Evaluation
+	 */
+	public static String RIM_BASE     = "rimBase";
+	public static String RIM_REASONER = "rimReasoner";
+
+	/*
+	 * Slot
+	 */
+	public static String RIM_SLOT = "rimSlot";
 	
+	/*
+	 * Default Slot Type
+	 */
+	public static String SLOT_TYPE = "XRegistry";
+
+    /*
+     * SLOT parameters
+     */
+	public static String SLOT_ALIAS     = "Alias";
+	public static String SLOT_COLOR     = "Color";
+	public static String SLOT_DATABASE  = "Database";
+	public static String SLOT_DRIVER    = "Driver";
+	public static String SLOT_ENDPOINT  = "Endpoint";
+	public static String SLOT_FILE      = "File";
+	public static String SLOT_KEYPASS   = "Keypass";
+	public static String SLOT_LATITUDE  = "Latitude";
+	public static String SLOT_LONGITUDE = "Longitude";
+	public static String SLOT_MARKUP    = "Markup";
+	public static String SLOT_MIMETYPE  = "Mimetype";
+	public static String SLOT_PORT      = "Port";
+	public static String SLOT_PROTOCOL  = "Protocol";
+	public static String SLOT_RULESET   = "Ruleset";
+	public static String SLOT_SEQNO     = "SeqNo";
+	public static String SLOT_SOURCE    = "Source";
+	public static String SLOT_SQL       = "SQL";
+	public static String SLOT_SYMBOL    = "Symbol";
+	public static String SLOT_TRACK     = "Track";
+	public static String SLOT_URI       = "Uri";
+	
+	// Cartesic coordinates
+	public static String SLOT_X         = "X";
+	public static String SLOT_Y         = "Y";
+
 }
