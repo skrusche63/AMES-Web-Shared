@@ -39,6 +39,7 @@ public class ClassificationConstants {
 	public static String FNC_ID_Evaluation     = FNC_ID + ":Evaluation";
 	public static String FNC_ID_Folder         = FNC_ID + ":Folder";
 	public static String FNC_ID_Image          = FNC_ID + ":Image";
+	public static String FNC_ID_Layer          = FNC_ID + ":Layer";
 	public static String FNC_ID_Link           = FNC_ID + ":Link";
 	public static String FNC_ID_Namespace      = FNC_ID + ":Namespace";	
 	public static String FNC_ID_Node           = FNC_ID + ":Node";

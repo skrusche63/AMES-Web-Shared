@@ -28,22 +28,26 @@ public class MethodConstants {
     public static String METH_DOWNLOAD  = "download";
     public static String METH_EXPLORE   = "explore";
     public static String METH_EXTRACT   = "extract";
+	public static String METH_FACET     = "facet";
     public static String METH_FILE      = "file";
     public static String METH_GET       = "get";
     public static String METH_KEYS      = "keys";
-    public static String METH_LAYERS    = "layers";
     public static String METH_MODULE    = "module";
 	public static String METH_REGISTER  = "register";
+	public static String METH_SEARCH    = "search";
 	public static String METH_SET       = "set";
 	public static String METH_SUBMIT    = "submit";
+	public static String METH_SUGGEST   = "suggest";
     public static String METH_SYMBOLS   = "symbols";
-    
+
     /*
      * Method attributes
      */
+    public static String ATTR_ENDPOINT  = "endpoint";
     public static String ATTR_FORMAT    = "format";
 	public static String ATTR_ITEM      = "item";
 	public static String ATTR_PARENT    = "parent";
+	public static String ATTR_QUERY     = "query";   
 	public static String ATTR_SERVICE   = "service";
 	public static String ATTR_SOURCE    = "source";
 	public static String ATTR_TARGET    = "target";
