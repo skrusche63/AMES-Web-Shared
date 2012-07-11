@@ -21,18 +21,24 @@ package de.kp.ames.web.shared;
 public class LabelConstants {
 
 	public static String AUTHOR_LABEL    = "Author";
+	public static String BBOX_LABEL      = "Bounding Box";
 	public static String CLAS_LABEL      = "Classifications";
 	public static String DESC_LABEL      = "Description";
 	public static String EVENT_LABEL     = "Event";
 	public static String HOME_LABEL      = "Home";
 	public static String ID_LABEL        = "ID";
+	public static String KEY_LABEL       = "Key";
+	public static String MAIL_LABEL      = "Mail Address";
+	public static String MIME_LABEL      = "Mimetype";
 	public static String NAME_LABEL      = "Name";
 	public static String OWNER_LABEL     = "Owner";
 	public static String SLOT_LABEL      = "Slots";
+	public static String SPEC_LABEL      = "Specifications";
+	public static String SRS_LABEL       = "Projection";
 	public static String STATUS_LABEL    = "Status";
 	public static String TIMESTAMP_LABEL = "Timestamp";
+	public static String TITLE_LABEL     = "Title";
 	public static String TYPE_LABEL      = "Type";
 	public static String VERSION_LABEL   = "Version";
-	
 
 }
