@@ -49,6 +49,7 @@ public class JsonConstants {
 	public static String J_LAT  	 = "lat";
 	public static String J_LON  	 = "lon";
 	public static String J_MIME      = "mimetype";
+	public static String J_QUERY     = "query";
 	public static String J_SOURCE    = "source";
 	public static String J_START 	 = "start";
 	public static String J_TERM      = "term";
