@@ -21,6 +21,7 @@ package de.kp.ames.web.shared;
 public class LabelConstants {
 
 	public static String AUTHOR_LABEL    = "Author";
+	public static String ASSIGNED_LABEL  = "Assigned";
 	public static String BBOX_LABEL      = "Bounding Box";
 	public static String CLAS_LABEL      = "Classifications";
 	public static String DESC_LABEL      = "Description";

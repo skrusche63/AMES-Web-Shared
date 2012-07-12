@@ -39,6 +39,7 @@ public class JaxrConstants {
 	public static String RIM_DESC 	   = "rimDescription";	 
 	public static String RIM_EVENT     = "rimEvent";
 	public static String RIM_HOME 	   = "rimHome";
+	public static String RIM_ICON      = "rimIcon";
 	public static String RIM_ID 	   = "rimId";	
 	public static String RIM_LID 	   = "rimLid";	
 	public static String RIM_MIME      = "rimMimeType";
