@@ -1,4 +1,4 @@
-package de.kp.ames.web.shared;
+package de.kp.ames.web.shared.constants;
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
@@ -26,6 +26,7 @@ public class LabelConstants {
 	public static String CLAS_LABEL      = "Classifications";
 	public static String DESC_LABEL      = "Description";
 	public static String EVENT_LABEL     = "Event";
+	public static String FROM_LABEL      = "From";
 	public static String HOME_LABEL      = "Home";
 	public static String ID_LABEL        = "ID";
 	public static String KEY_LABEL       = "Key";
@@ -33,13 +34,16 @@ public class LabelConstants {
 	public static String MIME_LABEL      = "Mimetype";
 	public static String NAME_LABEL      = "Name";
 	public static String OWNER_LABEL     = "Owner";
+	public static String PROPERTY_LABEL  = "Property";
 	public static String SLOT_LABEL      = "Slots";
 	public static String SPEC_LABEL      = "Specifications";
 	public static String SRS_LABEL       = "Projection";
 	public static String STATUS_LABEL    = "Status";
+	public static String SUBJECT_LABEL   = "Subject";
 	public static String TIMESTAMP_LABEL = "Timestamp";
 	public static String TITLE_LABEL     = "Title";
 	public static String TYPE_LABEL      = "Type";
+	public static String VALUE_LABEL     = "Value";
 	public static String VERSION_LABEL   = "Version";
 
 }

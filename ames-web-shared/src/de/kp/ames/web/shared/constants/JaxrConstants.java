@@ -1,4 +1,4 @@
-package de.kp.ames.web.shared;
+package de.kp.ames.web.shared.constants;
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
@@ -38,6 +38,7 @@ public class JaxrConstants {
 	public static String RIM_DATE      = "rimDatetime";
 	public static String RIM_DESC 	   = "rimDescription";	 
 	public static String RIM_EVENT     = "rimEvent";
+	public static String RIM_FILE      = "rimFile";
 	public static String RIM_HOME 	   = "rimHome";
 	public static String RIM_ICON      = "rimIcon";
 	public static String RIM_ID 	   = "rimId";	
@@ -110,11 +111,24 @@ public class JaxrConstants {
 	public static String RIM_NAMESPACE = "rimNamespace";
 
 	/*
+	 * Posting
+	 */
+	public static String RIM_FROM    = "rimFrom";
+	public static String RIM_MESSAGE = "rimMessage";
+	public static String RIM_SUBJECT = "rimSubject";
+
+	/*
 	 * Service
 	 */
 	public static String RIM_SEQNO = "rimSeqNo";
 	public static String RIM_SPEC  = "rimSpecification";
 
+	/*
+	 * Slot
+	 */
+	public static String RIM_KEY = "rimKey";
+	public static String RIM_VAL = "rimVal";
+	
 	/*
 	 * Evaluation
 	 */
@@ -159,4 +173,34 @@ public class JaxrConstants {
 	public static String SLOT_X         = "X";
 	public static String SLOT_Y         = "Y";
 
+	public static String EMPTY_SLOT = "(Property name)";
+	
+	public static String[] DEFINED_SLOTS = {
+		
+		EMPTY_SLOT,
+		
+		SLOT_ALIAS,
+		SLOT_COLOR,
+		SLOT_DATABASE,
+		SLOT_DRIVER,
+		SLOT_ENDPOINT,
+		SLOT_FILE,
+		SLOT_KEYPASS,
+		SLOT_LATITUDE,
+		SLOT_LONGITUDE,
+		SLOT_MARKUP,
+		SLOT_MIMETYPE,
+		SLOT_PORT,
+		SLOT_PROTOCOL,
+		SLOT_RULESET,
+		SLOT_SEQNO,
+		SLOT_SOURCE,
+		SLOT_SQL,
+		SLOT_SYMBOL,
+		SLOT_TRACK,
+		SLOT_URI,
+		SLOT_X,
+		SLOT_Y
+		
+	};
 }

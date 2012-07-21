@@ -1,4 +1,4 @@
-package de.kp.ames.web.shared;
+package de.kp.ames.web.shared.constants;
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
@@ -31,6 +31,7 @@ public class ClassificationConstants {
 	public static String FNC_ID_Accessor       = FNC_ID + ":Accessor";
 	public static String FNC_ID_Affiliation    = FNC_ID + ":Affiliation";
 	public static String FNC_ID_Category       = FNC_ID + ":Category";
+	public static String FNC_ID_Comment        = FNC_ID + ":Comment";
 	public static String FNC_ID_Contact        = FNC_ID + ":Contact";	
 	public static String FNC_ID_Community      = FNC_ID + ":Community";
 	public static String FNC_ID_Database       = FNC_ID + ":Database";
@@ -77,8 +78,9 @@ public class ClassificationConstants {
 	public static String FNC_SYMBOL_ID_Icon  = FNC_ID_Symbol + ":Icon";
 	
 	/*
-	 * Transformation Classification Nodes
+	 * Transform-Layer nodes
 	 */
+	public static String FNC_ID_Specification =  FNC_ID + ":Specification";
 	public static String FNC_ID_Transformator =  FNC_ID + ":Transformator";
 
 }

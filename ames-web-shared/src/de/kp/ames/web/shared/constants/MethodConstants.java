@@ -1,4 +1,4 @@
-package de.kp.ames.web.shared;
+package de.kp.ames.web.shared.constants;
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
