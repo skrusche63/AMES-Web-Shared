@@ -24,7 +24,10 @@ public class JsonConstants {
 	 * Common exchange parameters
 	 */
 	public static String J_ID       = "id";
+	public static String J_PID      = MethodConstants.ATTR_PARENT;
 	public static String J_NAME     = "name";
+
+	public static String J_IS_FOLDER = "isFolder";
 
 	/*
 	 * Symbol specific exchange parameters
