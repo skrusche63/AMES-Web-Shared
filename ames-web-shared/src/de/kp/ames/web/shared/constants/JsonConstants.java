@@ -62,6 +62,25 @@ public class JsonConstants {
 	public static String J_MESSAGE   = "message";
 
 	/*
+	 * Remote DAV object description
+	 */
+	public static String J_URI = "uri";
+
+	public static String J_CREATION_DATE = "creationDate";
+	public static String J_LAST_MODIFIED = "lastModified";
+
+	public static String J_CONTENT_LENGTH = "contentLength";
+	public static String J_CONTENT_TYPE   = "contentType";
+
+	/*
+	 * Remote IMAP object
+	 */
+	public static String J_ATTACHMENT = "attachment";
+	public static String J_DATE 	  = "date";
+	public static String J_FROM       = "from";
+    public static String J_SUBJECT    = "subject";		      
+	
+	/*
 	 * Map specific exchange parameters
 	 */
 	public static String J_BBOX  = "bbox";
