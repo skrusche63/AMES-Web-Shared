@@ -51,6 +51,7 @@ public class ClassificationConstants {
 	public static String FNC_ID_Remote         = FNC_ID + ":Remote";
 	public static String FNC_ID_Responsibility = FNC_ID + ":Responsibility";
 	public static String FNC_ID_Role           = FNC_ID + ":Role";
+	public static String FNC_ID_Rule           = FNC_ID + ":Rule";
 	public static String FNC_ID_User           = FNC_ID + ":User";
 	public static String FNC_ID_WebDav		   = FNC_ID + ":WebDav";
 	
