@@ -58,9 +58,10 @@ public class ClassificationConstants {
 	/*
 	 * Communication Classification Nodes
 	 */
-	public static String FNC_ID_Chat    = FNC_ID + ":Chat";
-	public static String FNC_ID_Mail    = FNC_ID + ":Mail";
-	public static String FNC_ID_Posting = FNC_ID + ":Posting";
+	public static String FNC_ID_Attachment = FNC_ID + ":Attachment";
+	public static String FNC_ID_Chat       = FNC_ID + ":Chat";
+	public static String FNC_ID_Mail       = FNC_ID + ":Mail";
+	public static String FNC_ID_Posting    = FNC_ID + ":Posting";
 
 	/*
 	 * Security Classification Nodes

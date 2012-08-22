@@ -46,6 +46,7 @@ public class MethodConstants {
     public static String ATTR_ENDPOINT  = "endpoint";
     public static String ATTR_FORMAT    = "format";
 	public static String ATTR_ITEM      = "item";
+    public static String ATTR_MAIL      = "mail";
 	public static String ATTR_PARENT    = "parent";
 	public static String ATTR_QUERY     = "query";   
 	public static String ATTR_SERVICE   = "service";
