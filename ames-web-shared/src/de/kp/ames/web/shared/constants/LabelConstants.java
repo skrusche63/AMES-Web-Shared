@@ -1,4 +1,5 @@
 package de.kp.ames.web.shared.constants;
+
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
@@ -20,6 +21,9 @@ package de.kp.ames.web.shared.constants;
 
 public class LabelConstants {
 
+	/*
+	 * Grid Labels
+	 */
 	public static String AUTHOR_LABEL    = "Author";
 	public static String ASSIGNED_LABEL  = "Assigned";
 	public static String BBOX_LABEL      = "Bounding Box";
@@ -46,4 +50,29 @@ public class LabelConstants {
 	public static String VALUE_LABEL     = "Value";
 	public static String VERSION_LABEL   = "Version";
 
+	/*
+	 * Form Labels
+	 */
+	public static String FORM_AREA_CODE_LABEL       = "<b>Area Code</b>:";
+	public static String FORM_CITY_LABEL            = "<b>City</b>:";
+	public static String FORM_COUNTRY_LABEL         = "<b>Country</b>:";
+	public static String FORM_COUNTRY_CODE_LABEL    = "<b>Country Code</b>:";
+	public static String FORM_DATE_LABEL            = "<b>Date</b>:";
+	public static String FORM_DESC_LABEL            = "<b>Description</b>:";
+	public static String FORM_EMAIL_LABEL           = "<b>Email Address</b>:";
+	public static String FORM_FIRST_NAME_LABEL      = "<b>First Name</b>:";
+	public static String FORM_FROM_LABEL            = "<b>From</b>:";
+	public static String FORM_LAST_NAME_LABEL       = "<b>Last Name</b>:";
+	public static String FORM_MIDDLE_NAME_LABEL     = "<b>Middle Name</b>:";
+	public static String FORM_NAME_LABEL            = "<b>Name</b>:";
+	public static String FORM_PHONE_NUMBER_LABEL    = "<b>Phone Number</b>:";
+	public static String FORM_PHONE_EXTENSION_LABEL = "<b>Extension</b>:";
+	public static String FORM_POSTAL_CODE           = "<b>Postal Code</b>:";
+	public static String FORM_STATE_LABEL           = "<b>State</b>:";
+	public static String FORM_STREET_LABEL          = "<b>Street</b>:";
+	public static String FORM_STREET_NUMBER_LABEL   = "<b>Street Number</b>:";
+	public static String FORM_SUBJECT_LABEL         = "<b>Subject</b>:";
+	public static String FORM_TIMESTAMP_LABEL       = "<b>Timestap</b>:";
+	public static String FORM_TO_LABEL              = "<b>To</b>:";
+	
 }
