@@ -25,10 +25,6 @@ public class ClassificationConstants {
 	 */
 	public static String FNC_ID = "urn:oasis:names:tc:ebxml-regrep:FNC";
 		
-	/*
-	 * Business Classification Nodes
-	 */
-	public static String FNC_ID_Accessor       = FNC_ID + ":Accessor";
 	public static String FNC_ID_Affiliation    = FNC_ID + ":Affiliation";
 	public static String FNC_ID_Category       = FNC_ID + ":Category";
 	public static String FNC_ID_Comment        = FNC_ID + ":Comment";
@@ -84,5 +80,11 @@ public class ClassificationConstants {
 	 */
 	public static String FNC_ID_Specification =  FNC_ID + ":Specification";
 	public static String FNC_ID_Transformator =  FNC_ID + ":Transformator";
+
+	/*
+	 * Vocabulary Classification Nodes
+	 */
+	public static String FNC_ID_Scheme  = FNC_ID + ":Scheme";
+	public static String FNC_ID_Concept = FNC_ID + ":Concept";
 
 }

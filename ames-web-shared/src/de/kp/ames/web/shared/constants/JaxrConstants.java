@@ -46,6 +46,7 @@ public class JaxrConstants {
 	public static String RIM_MIME      = "rimMimeType";
 	public static String RIM_NAME 	   = "rimName";
 	public static String RIM_OWNER     = "rimOwner";
+	public static String RIM_PARENT    = "rimParent";
 	public static String RIM_SOURCE    = "rimSourceObject";
 	public static String RIM_STATUS    = "rimStatus";
 	public static String RIM_TARGET    = "rimTargetObject";

@@ -24,10 +24,10 @@ public class IconConstants {
 	public static String DOCUMENT      = "document";
 	public static String IMAGE         = "image";
 	public static String MAIL          = "mail";
-	public static String ORGANIZATION  = "organization";
+	public static String ORGANIZATION  = "group";
 	public static String PRODUCT       = "product";
 	public static String SERVICE       = "service";
-	public static String TRANSFORMATOR = "transformator";
+	public static String TRANSFORMATOR = "transform";
 	public static String USER          = "user";
 	
 }
