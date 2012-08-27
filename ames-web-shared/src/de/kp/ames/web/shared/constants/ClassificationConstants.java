@@ -25,6 +25,7 @@ public class ClassificationConstants {
 	 */
 	public static String FNC_ID = "urn:oasis:names:tc:ebxml-regrep:FNC";
 		
+	public static String FNC_ID_Accessor       = FNC_ID + ":Accessor";
 	public static String FNC_ID_Affiliation    = FNC_ID + ":Affiliation";
 	public static String FNC_ID_Category       = FNC_ID + ":Category";
 	public static String FNC_ID_Comment        = FNC_ID + ":Comment";
