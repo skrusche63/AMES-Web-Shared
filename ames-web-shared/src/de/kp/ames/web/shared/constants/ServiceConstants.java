@@ -22,14 +22,14 @@ public class ServiceConstants {
 
 	public static String ACCESS_SERVICE_ID        = "access";
 	public static String BULLETIN_SERVICE_ID      = "bulletin";
-	public static String COMMUNICATION_SERVICE_ID = "communication";
-	public static String COMMUNITY_SERVICE_ID     = "community";
+	public static String COMMUNICATION_SERVICE_ID = "comm";
+	public static String COMMUNITY_SERVICE_ID     = "group";
 	public static String DISCLAIMER_SERVICE_ID    = "disclaimer";
 	public static String DMS_SERVICE_ID           = "dms";
 	public static String DOMAIN_SERVICE_ID        = "domain";
 	public static String FRAME_SERVICE_ID         = "frame";
 	public static String MAP_SERVICE_ID           = "map";
-	public static String NAMESPACE_SERVICE_ID     = "namespace";
+	public static String NAMESPACE_SERVICE_ID     = "ns";
 	public static String PRODUCT_SERVICE_ID       = "product";
 	public static String ROLE_SERVICE_ID          = "role";
 	public static String RULE_SERVICE_ID          = "rule";
