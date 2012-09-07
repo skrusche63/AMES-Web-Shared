@@ -1,4 +1,7 @@
 package de.kp.ames.web.shared.constants;
+
+import java.util.Collection;
+
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG
  *
@@ -22,6 +25,7 @@ public class IconConstants {
 
 	public static String CHAT          = "chat";
 	public static String DOCUMENT      = "document";
+	public static String FOLDER 	   = "folder";
 	public static String IMAGE         = "image";
 	public static String MAIL          = "mail";
 	public static String ORGANIZATION  = "group";
