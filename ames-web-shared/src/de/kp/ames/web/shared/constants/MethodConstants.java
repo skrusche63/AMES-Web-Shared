@@ -54,5 +54,9 @@ public class MethodConstants {
 	public static String ATTR_TARGET    = "target";
 	public static String ATTR_TYPE      = "type";
 
+    /*
+     * AMES SCM specific constants
+     */
+	public static String ATTR_CHECKOUT  = "ckeckout";
 
 }

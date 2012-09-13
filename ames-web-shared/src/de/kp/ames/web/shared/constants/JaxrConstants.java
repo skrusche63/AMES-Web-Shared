@@ -114,9 +114,10 @@ public class JaxrConstants {
 	/*
 	 * Posting
 	 */
-	public static String RIM_FROM    = "rimFrom";
-	public static String RIM_MESSAGE = "rimMessage";
-	public static String RIM_SUBJECT = "rimSubject";
+	public static String RIM_FROM    	= "rimFrom";
+	public static String RIM_MESSAGE 	= "rimMessage";
+	public static String RIM_MESSAGE_ID = "rimMessageId";
+	public static String RIM_SUBJECT 	= "rimSubject";
 
 	/*
 	 * Service

@@ -33,6 +33,7 @@ public class ServiceConstants {
 	public static String PRODUCT_SERVICE_ID       = "product";
 	public static String ROLE_SERVICE_ID          = "role";
 	public static String RULE_SERVICE_ID          = "rule";
+	public static String SCM_SERVICE_ID 		  = "scm";
 	public static String SEARCH_SERVICE_ID        = "search";
 	public static String SECURITY_SERVICE_ID      = "security";
 	public static String SYMBOL_SERVICE_ID        = "symbol";
