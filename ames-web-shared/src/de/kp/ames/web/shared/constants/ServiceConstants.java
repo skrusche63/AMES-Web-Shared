@@ -40,5 +40,6 @@ public class ServiceConstants {
 	public static String TRANSFORM_SERVICE_ID     = "transform";
 	public static String UPLOAD_SERVICE_ID        = "upload";
 	public static String USER_SERVICE_ID          = "user";
+	public static String WORKSHOP_SERVICE_ID      = "workshop";
 
 }

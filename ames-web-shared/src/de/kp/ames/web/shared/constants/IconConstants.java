@@ -1,6 +1,5 @@
 package de.kp.ames.web.shared.constants;
 
-import java.util.Collection;
 
 /**
  *	Copyright 2012 Dr. Krusche & Partner PartG

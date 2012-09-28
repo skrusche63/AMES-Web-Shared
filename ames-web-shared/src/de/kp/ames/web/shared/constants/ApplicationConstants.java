@@ -55,5 +55,9 @@ public class ApplicationConstants {
 	 * Classification of ShowCase
 	 */
 	public static String FNC_APP_ID_ShowCase = FNC_ID_App + ":ShowCase";
+	/*
+	 * Classification of Workshop
+	 */
+	public static String FNC_APP_ID_Workshop = FNC_ID_App + ":Workshop";
 
 }
