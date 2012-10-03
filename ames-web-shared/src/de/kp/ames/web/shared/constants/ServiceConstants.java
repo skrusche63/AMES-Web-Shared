@@ -22,6 +22,7 @@ public class ServiceConstants {
 
 	public static String ACCESS_SERVICE_ID        = "access";
 	public static String BULLETIN_SERVICE_ID      = "bulletin";
+	public static String CLAS_SERVICE_ID      	  = "clas";
 	public static String COMMUNICATION_SERVICE_ID = "comm";
 	public static String COMMUNITY_SERVICE_ID     = "group";
 	public static String DISCLAIMER_SERVICE_ID    = "disclaimer";
